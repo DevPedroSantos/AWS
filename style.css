@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #FF9900;
+    height: 110px;
+    font-size: 1.5em;
+}
+
+.cabecalho {
+    display: flex;
+    background-color: #203344;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    gap: 15%;
+    color: #ffffff;
+}
+
+#AWS {
+    width: 139px;
+    height: 89px;
+}
+
+#EdN {
+    width: 116px;
+    height: 88px;
+}
+
+section {
+    padding: 329px;
+}
+
+footer {
+    background-color: #203344;
+    height: 106px;
+}
+
+.rodape {
+    display: flex;
+    background-color: #FF9900;
+    height: 10px;
+    justify-content: center;
+}
+
+.rodape #EdN {
+    margin-top: 11px;
+}
