@@ -35,50 +35,25 @@ header {
     height: 91px;
 }
 
-.fundo {
-    background-color: #E0E0E0;
-    border-radius: 20px;
+section {
+    padding-top: 20px;
+    text-align: center;
+    height: 77vh;
+}
+
+h2 {
+    font-size: 50px;
+    padding-bottom: 10px;
 }
 
 p {
-    font-size: 1.5em;
-    text-align: justify;
-    text-indent: 20px;
-    padding: 10px;
+    font-size: 30px;
+    padding-bottom: 20px;
 }
 
-.main img {
-    width: 150px;
-    height: 150px;
-}
-
-i {
-    padding: 44px;
-    font-size: 4em;
-}
-
-strong {
-    padding-top: 60px;
-}
-
-.pedro {
-    display: flex;
-    padding: 40px 70px 20px;
-}
-
-.priscila {
-    display: flex;
-    padding: 20px 70px;
-}
-
-.raphael {
-    display: flex;
-    padding: 20px 70px;
-}
-
-.tayna {
-    display: flex;
-    padding: 20px 70px 40px;
+a {
+    text-decoration: none;
+    font-size: 30px;
 }
 
 footer {
@@ -91,8 +66,4 @@ footer {
     background-color: #FF9900;
     height: 10px;
     justify-content: center;
-}
-
-.rodape #EdN {
-    margin-top: 12px;
 }
